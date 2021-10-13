@@ -1,12 +1,12 @@
 const help = (prefix) => {
 	return `
 
-⌜ *ѕнαηвσт ву ѕнαη∂υу* ⌟  
+⌜ *Ricar2drm* ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: ѕнαη∂υу™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
+   ○ Creador: Ricar2drm 
+   ○ Te falta calle
    ○ Instagram: https://www.instagram.com/thepavos
 
 ◉ *PARA USAR EL BOT*
@@ -20,21 +20,21 @@ Level para tus grupos
 ○ ${prefix}antimenu
 Su nombre lo dice todo (antilink)
 ○ ${prefix}otak
-Monas chinas
+Quemar otakus
 ○ ${prefix}shantera
 Interactua con el bot
 
 ◉ *NUEVOS MENUS*
 ○ ${prefix}juegos
-Diviértete con tus amigos :)
+ :)
 ○ ${prefix}desmenu
 Descargar musica y videos
 ○ ${prefix}version
-Conoce la versión de tu bot
+Inactivo
 ○ ${prefix}welmenu
 Comando de bienvenida solo grupos
 
-◉ *RESUELVE TUS DUDAS*
+◉ *Yo*
   ║
   ╠ ○ ${prefix}creador
   ╚ Dudas o problemas aqui
@@ -95,7 +95,7 @@ Comando de bienvenida solo grupos
 
 Para usar estas funciones el bot necesita admin
   
-◉ *NSWF* 
+◉ *No usar* 
   ║
   ╚ ○ ${prefix}nsfwmenu
 
@@ -105,10 +105,10 @@ Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desact
 No te olvides de seguirme en instagram flaco ;)
 
 
-_*by shanduy*_
+_*Ricar2drm*_
 
 
-⌜ *ごきげんよう :)* ⌟ 
+⌜ *Puro hueso* ⌟ 
 `
 }
 
