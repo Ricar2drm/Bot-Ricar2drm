@@ -7,7 +7,7 @@ const help = (prefix) => {
    ○ Comando: ⌜ ${prefix} ⌟
    ○ Creador: Ricar2drm 
    ○ Te falta calle
-   ○ Instagram: https://www.instagram.com/thepavos
+   ○ Te voy a arrancar las cuerdas vocales
 
 ◉ *PARA USAR EL BOT*
 Registrate con el comando ${prefix}daftar y tu nombre
